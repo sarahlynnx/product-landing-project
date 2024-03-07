@@ -1,0 +1,15 @@
+* {
+    /*background-color: #232025;*/
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.buy-container {
+    margin-top: 80px;
+}
+
+.product-img {
+    width: 45vw;
+
+}
